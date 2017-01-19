@@ -1,0 +1,2 @@
+# QBTableCell
+for mac app
